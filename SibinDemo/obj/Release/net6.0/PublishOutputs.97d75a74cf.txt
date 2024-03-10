@@ -1,0 +1,7 @@
+C:\UserData\Learn\Project\SibinDemo\SibinDemo\SibinDemo\obj\Release\net6.0\PubTmp\Out\SibinDemo.exe
+C:\UserData\Learn\Project\SibinDemo\SibinDemo\SibinDemo\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\UserData\Learn\Project\SibinDemo\SibinDemo\SibinDemo\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\UserData\Learn\Project\SibinDemo\SibinDemo\SibinDemo\obj\Release\net6.0\PubTmp\Out\SibinDemo.dll
+C:\UserData\Learn\Project\SibinDemo\SibinDemo\SibinDemo\obj\Release\net6.0\PubTmp\Out\SibinDemo.deps.json
+C:\UserData\Learn\Project\SibinDemo\SibinDemo\SibinDemo\obj\Release\net6.0\PubTmp\Out\SibinDemo.runtimeconfig.json
+C:\UserData\Learn\Project\SibinDemo\SibinDemo\SibinDemo\obj\Release\net6.0\PubTmp\Out\SibinDemo.pdb
